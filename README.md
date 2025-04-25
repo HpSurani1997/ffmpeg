@@ -5,7 +5,7 @@ https://cocoapods.org/pods/hpsurani-ffmpeg-kit-ios-https
 
 
 ## Modified Podsped of ffmpeg-react-native
-
+ ```
 require "json"
 
 package = JSON.parse(File.read(File.join(__dir__, "package.json")))
@@ -34,3 +34,4 @@ Pod::Spec.new do |s|
     ss.ios.deployment_target = '12.1'
   end
 end
+```
