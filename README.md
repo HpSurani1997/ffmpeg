@@ -5,7 +5,7 @@ https://cocoapods.org/pods/hpsurani-ffmpeg-kit-ios-https
 
 
 ## Modified Podsped of ffmpeg-react-native
- ```
+```ruby
 require "json"
 
 package = JSON.parse(File.read(File.join(__dir__, "package.json")))
